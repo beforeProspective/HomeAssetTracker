@@ -1,0 +1,6 @@
+/prompt/create_excel.py
+*/*/node_modules/
+/prompt/*
+*/*/vendor
+/.idea/*
+/frontend/node_modules/
